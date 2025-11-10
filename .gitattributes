@@ -1,0 +1,11 @@
+# Auto normalize line endings for all text files
+* text=auto
+
+# Force LF for Python files
+*.py text eol=lf
+
+# Force LF for CSV files
+*.csv text eol=lf
+
+# Force LF for Markdown / README
+*.md text eol=lf

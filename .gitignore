@@ -1,0 +1,21 @@
+# Ignore Python virtual environment
+venv/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Dataset, temporary files
+dataset/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+kaggle.json
